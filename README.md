@@ -6,7 +6,7 @@
 
 <p align="center">
   A lightweight <b>Discord.js</b> script that automatically generates and updates an <br/>
-  <b>army member list embed</b> for SA-MP servers.
+  <b>army member list embed</b> for lsrcr server.
 </p>
 
 <p align="center">
