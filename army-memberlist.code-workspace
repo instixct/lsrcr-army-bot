@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.DS_Store": true,
+			"**/.git": true,
+			"**/.gitignore": true,
+			"**/.hg": true,
+			"**/.svn": true,
+			"**/.txt": true,
+			"**/.vscode": true,
+			"**/*.*.old": true,
+			"**/*.amx": true,
+			"**/*.dll": true,
+			"**/*.exe": true,
+			"**/*.pdb": true,
+			"**/*.rar": true,
+			"**/*.so": true,
+			"**/*.zip": true,
+			"**/archive": true,
+			"**/node_modules": true,
+			"**/logs": true,
+			//"package.json": true,
+			"package-lock.json": true,
+			".env": false,
+
+			"include": true
+		},
+		"workbench.colorCustomizations": {
+			"titleBar.activeBackground": "#09c4f315",
+			"titleBar.inactiveBackground": "#274147",
+			"titleBar.activeForeground": "#e7e7e799",
+			"titleBar.inactiveForeground": "#e7e7e799",
+			"statusBar.background": "#4047495b",
+			"statusBarItem.hoverBackground": "#acb0b1",
+			"statusBar.foreground": "#e7e7e7"
+		},
+		"peacock.color": "#00C0FF",
+		"discord.enabled": true
+	}
+}
