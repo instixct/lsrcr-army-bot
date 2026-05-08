@@ -37,7 +37,7 @@ Make sure you have the following installed:
 
 ---
 
-## ⚙️ Installation
+<p align="center">
+   <img src="./img/screenshot.png" alt="Army Screenshot" />
 
-```bash
-npm install
+</p>
