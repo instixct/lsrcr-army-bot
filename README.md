@@ -34,7 +34,7 @@ Make sure you have the following installed:
 - [`node-samp-query`](https://www.npmjs.com/package/node-samp-query)
 - [`axios`](https://www.npmjs.com/package/axios)
 - [`cheerio`](https://www.npmjs.com/package/cheerio)
-
+- [`chalk`](https://www.npmjs.com/package/chalk)
 ---
 
 <p align="center">
